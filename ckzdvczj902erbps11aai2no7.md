@@ -3,6 +3,7 @@
 > A good portfolio is more than a long list of good projects and designs.
 
 Check out [My Portfolio Here](https://larymak.netlify.app/) 😎 <br>  
+Project [Source Code](https://github.com/larymak/PersonalPortifolio) 👩‍💻.
 
 This is an overview of the project and some of the key factors I put into consideration during the development.
 
